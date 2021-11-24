@@ -1,0 +1,82 @@
+ COMPOUND NUCLEUS ENERGY     8.499 MeV
+ COMPOUND NUCLEUS ENERGY     9.492 MeV
+  65-Tb-156 isomer state population  0.531794E-02 mb (m1 E= 0.0884MeV Jp=  0.0)
+  65-Tb-156 ground state population  0.643978E-01 mb
+ COMPOUND NUCLEUS ENERGY    10.486 MeV
+  65-Tb-156 isomer state population  0.777738E-01 mb (m1 E= 0.0884MeV Jp=  0.0)
+  65-Tb-156 ground state population   1.51818     mb
+ COMPOUND NUCLEUS ENERGY    11.479 MeV
+  65-Tb-156 isomer state population  0.472927     mb (m1 E= 0.0884MeV Jp=  0.0)
+  65-Tb-156 ground state population   11.5504     mb
+ COMPOUND NUCLEUS ENERGY    12.473 MeV
+  65-Tb-156 isomer state population   1.63801     mb (m1 E= 0.0884MeV Jp=  0.0)
+  65-Tb-156 ground state population   47.4674     mb
+ COMPOUND NUCLEUS ENERGY    13.467 MeV
+  65-Tb-156 isomer state population   3.81266     mb (m1 E= 0.0884MeV Jp=  0.0)
+  65-Tb-156 ground state population   126.221     mb
+ COMPOUND NUCLEUS ENERGY    14.460 MeV
+  65-Tb-156 isomer state population   6.56202     mb (m1 E= 0.0884MeV Jp=  0.0)
+  65-Tb-156 ground state population   245.327     mb
+ COMPOUND NUCLEUS ENERGY    15.454 MeV
+  65-Tb-156 isomer state population   9.13729     mb (m1 E= 0.0884MeV Jp=  0.0)
+  65-Tb-156 ground state population   386.635     mb
+ COMPOUND NUCLEUS ENERGY    16.447 MeV
+  65-Tb-156 isomer state population   8.78457     mb (m1 E= 0.0884MeV Jp=  0.0)
+  65-Tb-156 ground state population   431.841     mb
+ COMPOUND NUCLEUS ENERGY    17.441 MeV
+  65-Tb-156 isomer state population   4.50577     mb (m1 E= 0.0884MeV Jp=  0.0)
+  65-Tb-156 ground state population   258.501     mb
+ COMPOUND NUCLEUS ENERGY    18.435 MeV
+  65-Tb-156 isomer state population   2.84454     mb (m1 E= 0.0884MeV Jp=  0.0)
+  65-Tb-156 ground state population   156.543     mb
+ COMPOUND NUCLEUS ENERGY    19.428 MeV
+  65-Tb-156 isomer state population   2.09928     mb (m1 E= 0.0884MeV Jp=  0.0)
+  65-Tb-156 ground state population   104.644     mb
+ COMPOUND NUCLEUS ENERGY    20.422 MeV
+  65-Tb-156 isomer state population   1.62127     mb (m1 E= 0.0884MeV Jp=  0.0)
+  65-Tb-156 ground state population   73.5374     mb
+ COMPOUND NUCLEUS ENERGY    21.415 MeV
+  65-Tb-156 isomer state population   1.41039     mb (m1 E= 0.0884MeV Jp=  0.0)
+  65-Tb-156 ground state population   59.9875     mb
+ COMPOUND NUCLEUS ENERGY    22.409 MeV
+  65-Tb-156 isomer state population   1.28830     mb (m1 E= 0.0884MeV Jp=  0.0)
+  65-Tb-156 ground state population   49.9929     mb
+ COMPOUND NUCLEUS ENERGY    23.402 MeV
+  65-Tb-156 isomer state population   1.23740     mb (m1 E= 0.0884MeV Jp=  0.0)
+  65-Tb-156 ground state population   46.4458     mb
+ COMPOUND NUCLEUS ENERGY    24.396 MeV
+  65-Tb-156 isomer state population   1.18634     mb (m1 E= 0.0884MeV Jp=  0.0)
+  65-Tb-156 ground state population   41.5622     mb
+ COMPOUND NUCLEUS ENERGY    25.390 MeV
+  65-Tb-156 isomer state population   1.09222     mb (m1 E= 0.0884MeV Jp=  0.0)
+  65-Tb-156 ground state population   38.3877     mb
+ COMPOUND NUCLEUS ENERGY    27.377 MeV
+  65-Tb-156 isomer state population  0.984308     mb (m1 E= 0.0884MeV Jp=  0.0)
+  65-Tb-156 ground state population   34.3075     mb
+ COMPOUND NUCLEUS ENERGY    29.364 MeV
+  65-Tb-156 isomer state population  0.919096     mb (m1 E= 0.0884MeV Jp=  0.0)
+  65-Tb-156 ground state population   31.5573     mb
+ COMPOUND NUCLEUS ENERGY    31.351 MeV
+  65-Tb-156 isomer state population  0.724317     mb (m1 E= 0.0884MeV Jp=  0.0)
+  65-Tb-156 ground state population   26.5689     mb
+ COMPOUND NUCLEUS ENERGY    33.338 MeV
+  65-Tb-156 isomer state population  0.677614     mb (m1 E= 0.0884MeV Jp=  0.0)
+  65-Tb-156 ground state population   22.9660     mb
+ COMPOUND NUCLEUS ENERGY    35.325 MeV
+  65-Tb-156 isomer state population  0.579099     mb (m1 E= 0.0884MeV Jp=  0.0)
+  65-Tb-156 ground state population   20.2480     mb
+ COMPOUND NUCLEUS ENERGY    37.313 MeV
+  65-Tb-156 isomer state population  0.503513     mb (m1 E= 0.0884MeV Jp=  0.0)
+  65-Tb-156 ground state population   18.0148     mb
+ COMPOUND NUCLEUS ENERGY    39.300 MeV
+  65-Tb-156 isomer state population  0.448930     mb (m1 E= 0.0884MeV Jp=  0.0)
+  65-Tb-156 ground state population   16.5058     mb
+ COMPOUND NUCLEUS ENERGY    41.287 MeV
+  65-Tb-156 isomer state population  0.440610     mb (m1 E= 0.0884MeV Jp=  0.0)
+  65-Tb-156 ground state population   15.4813     mb
+ COMPOUND NUCLEUS ENERGY    43.274 MeV
+  65-Tb-156 isomer state population  0.378665     mb (m1 E= 0.0884MeV Jp=  0.0)
+  65-Tb-156 ground state population   14.6901     mb
+ COMPOUND NUCLEUS ENERGY    45.261 MeV
+  65-Tb-156 isomer state population  0.319009     mb (m1 E= 0.0884MeV Jp=  0.0)
+  65-Tb-156 ground state population   12.1441     mb

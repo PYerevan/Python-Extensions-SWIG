@@ -1,0 +1,5 @@
+#!/bin/bash
+g++ extractor.cpp -o out -std=c++17
+swig -c++ -python extractor.i
+g++ -fpic -c -I/usr/include/python3.8 extractor.cpp extractor_wrap.cxx
+g++ -shared extractor.o extractor_wrap.o -o _extractor.so

@@ -1,0 +1,1 @@
+void extract(std::string);

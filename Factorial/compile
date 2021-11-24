@@ -1,0 +1,6 @@
+set -x
+# g++ factorial.cpp -o out -std=c++17
+g++ measure.cpp factorial.cpp -o out -std=c++17
+swig -c++ -python factorial.i
+g++ -fpic -c -I/usr/include/python3.8 factorial.cpp factorial_wrap.cxx
+g++ -shared factorial.o factorial_wrap.o -o _factorial.so

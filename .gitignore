@@ -1,0 +1,6 @@
+.idea
+*/*.so
+*/*.o
+*/*.cxx
+*/*.c
+*/natNb_y.out

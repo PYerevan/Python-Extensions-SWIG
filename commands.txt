@@ -1,0 +1,5 @@
+# Build docker image
+docker build . -t ubuntu-env
+
+# Run docker container interactively and enter bash session
+docker run -ti -w /apps -v `pwd`:/apps ubuntu-env bash
